@@ -1,0 +1,135 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.img-logo{
+    width:48xp;
+    height: 48px;
+   
+}
+a{
+    text-decoration: none;
+    color: #F9FAF8;
+    font-size: 18px;
+}
+ul li{
+    list-style-type: none;
+    
+}
+ul{
+    gap:15px;
+}
+    
+.header-stripe{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 120px;
+    padding-top: 20px;
+}
+ul{
+    display: flex;
+     align-items: center;
+}
+
+ .info-img{
+    width: 500px;
+    height: 250px;
+ }
+ .intro-text{
+    font-size: 18px;
+    color: #E5E7EB;
+    margin:10px 0;
+
+ }
+ .intro-header{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+
+ }
+ .button-one{
+    background-color: #3882F6;
+    color:#F9FAF8 ;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 7px;
+    font-size: 18px;
+    font-weight: bold;
+ }
+ .header-info{
+    display: flex;
+    gap: 18px;
+ }
+ .header{
+    padding-left: 90px;
+    padding-right: 90px;
+    background-color: #1F2937;
+    padding-bottom: 93px;
+
+ }
+ h2{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    margin-top: 30px;
+    margin-bottom: 45px;
+    text-align: center;
+ }
+.scenery-photo{
+    width:240px;
+    height: 240px;
+    border: 5px solid #3882F6;
+    border-radius: 10px;
+}
+.great-place{
+    width: 240px;
+    
+}
+.great-scenes{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 0 60px;
+    padding-bottom: 90px;
+}
+.testimonial{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+    padding: 55px 150px;
+    display: flex;
+    flex-direction: column;
+    }
+.cust-name{
+    align-self: flex-end;
+}
+.last-call{
+    background-color: #3882F6;
+    display: flex;
+    margin: 90px 125px;
+    padding: 45px 65px;
+    color: #E5E7EB;
+    justify-content: space-between;
+    align-items: center;
+}
+.first-para{
+    font-size: 24px;
+}
+.button-two{
+    padding: 5px 20px;
+    border-radius: 7px;
+    font-size: 18px;
+    border: solid #E5E7EB;
+    background-color: transparent;
+    color: #E5E7EB;
+    font-weight: bold;
+}
+.footer{
+    background-color: #1F2937;
+    text-align: center;
+    color: #E5E7EB;
+    padding: 40px 0;
+}
